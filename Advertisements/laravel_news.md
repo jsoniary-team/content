@@ -10,4 +10,4 @@ Jsoniary is focused on being super easy to test requests, automate documentation
 
 No more writing down lengthy documentation files for request types, parameters, authorization headers, OR responses. We auto-generate that for you!
 
-We'll soon launch a free private beta access for our app. If you develop APIs and are frustrated with documentation, we'd love your feedback!
+We'll soon launch a free private beta access for our app. If you develop APIs, we'd love your feedback!
