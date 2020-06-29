@@ -6,8 +6,8 @@ Jsoniary is focused on being super easy to test requests, automate documentation
 
 - Test requests with our Desktop app
 - Click Sync
-- Auto-generated documentation is ready
+- Documentation is auto-generated
 
-No more writing down lengthy documentation files for request types, parameters, authorization headers, OR responses. We auto-generate that for you!
+No more writing down lengthy documentation files for request types, parameters, authorization headers, OR responses. We auto-generate them for you! You can share this documentation internally with your team OR to public users of your application.
 
-We'll soon launch a free private beta access for our app. If you develop APIs, we'd love your feedback!
+We'll soon launch a Free Private Beta Access to 100 users. If you develop APIs, we'd love to present you the first version!
