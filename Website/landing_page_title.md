@@ -3,3 +3,4 @@
 - One Platform for API Testing & Documentation
 - Jsoniary Replaces Postman & API Documentation Hassles
 - Collaborate on API Testing & Documentation
+- Your API's Testing & Documentation Platform
