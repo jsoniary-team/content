@@ -5,9 +5,11 @@
 We are focused on being super easy to test, document, and collaborate on APIs
 
 - Supports REST, SOAP & GraphQL requests
-- Auto-generated Documentaion
+- Auto-generated Documentation
 - Smart API Editor
-- Share APIs with your team
-- OR Host the documentation on a pubilc url
+- Desktop Client
+- Web Application Access
+- Collaborate with Team
+- Host documentation on a public url
 
 We'll soon launch a Free Private Beta Access to 100 users. If you develop APIs, we'd love to present you the first version!
