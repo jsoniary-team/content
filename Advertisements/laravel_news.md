@@ -9,7 +9,6 @@ Jsoniary replaces Postman from your development toolkit. We are focused on being
 - Web Application Access
 - Host documentation on a public url
 - Auto-Sync (Desktop -> Web App -> Desktop)
-
 - Collaborate with Team (On Premium Plans)
 
 Get Jsoniary Personal, our **100% Free Plan** that's made for individual developers. No Strings Attached.
