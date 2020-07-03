@@ -4,7 +4,7 @@
 
 We are focused on being super easy to test, document, and collaborate on APIs on a single platform.
 
-- Supports REST, SOAP & GraphQL requests
+- Supports REST, SOAP, GraphQL & Neo4j requests
 - Auto-generated Documentation
 - Smart API Editor
 - Desktop Client
