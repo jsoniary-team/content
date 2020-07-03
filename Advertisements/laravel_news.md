@@ -1,4 +1,4 @@
-## Jsoniary Personal, Free for Laravel Developers
+## Introducing Jsoniary Personal: Free Plan for Laravel Developers
 
 Jsoniary replaces Postman from your development toolkit. We are focused on being super easy to test, document, and collaborate on APIs.
 
