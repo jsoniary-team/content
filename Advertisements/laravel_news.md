@@ -1,4 +1,4 @@
-## Jsoniary - Free Private Beta Access for Laravel Developers
+## Free Private Beta Access for Laravel Developers
 
 **TL;DR: Jsoniary replaces Postman from your development toolkit. It provides a simple way to test, document and collaborate on your APIs. We are looking for Laravel API developers for our Free Private Beta Access.**
 
