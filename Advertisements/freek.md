@@ -10,4 +10,4 @@ Jsoniary replaces Postman & Swagger from your development toolkit. It is focused
 
 **API Weekly: A free, once-weekly e-mail round up of API News, Tutorials, Tools & Jobs**
 
-We curate this free newsletter to keep developers informed about latest API news. Our focus is on developers who actively use myriad of API integrations in their daily work for their clients. We bring you new APIs launched for fetching data, in-depth tutorial links, tools, and jobs for API Developers.
+We curate this free newsletter to keep developers informed about latest API news. Our focus is on developers who actively use myriad of API integrations in their daily work for their clients. We bring you a list of  APIs for fetching data, links for in-depth tutorials, tools, and jobs for API Developers.
