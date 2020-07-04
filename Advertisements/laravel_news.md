@@ -25,7 +25,7 @@ Laravel community has always played an important part in my growth as a develope
 Jsoniary replaces Postman & Swagger from your development toolkit. We are focused on being super easy to test, document and collaborate on APIs. Here's what you get:
 
 - Desktop Client
-- Supports REST, SOAP, GraphQL & Neo4j requests
+- Test REST, SOAP, GraphQL & Neo4j requests
 - Auto-generate your API's Documentation
 - Host your API Docs directly from Jsoniary
 - Smart API Docs Editor
