@@ -2,9 +2,9 @@
 
 Jsoniary replaces Postman & Swagger from your development toolkit. It is focused on being super easy to test, document and collaborate on APIs. You get a Desktop Client supporting REST, SOAP & GraphQL request, Auto-Generated API Documentation, Public Hosting of your API Docs, a Smart API Editor, and Auto-Sync.
 
-**Jsoniary: We're two indie hackers launching our first SaaS**
+**Jsoniary Personal: 100% Free Plan for Indie Laravel API Devs**
 
-We both consider this app to be our "coolest" project. I am feeling very excited and equally nervous to put this in front of you!
+We're two indie hackers launching our first SaaS. I am feeling very excited and equally nervous to put this in front of you!
 
 Jsoniary replaces Postman & Swagger from your development toolkit. It is focused on being super easy to test, document and collaborate on APIs. You get a Desktop Client supporting REST, SOAP & GraphQL requests, Auto-Generated API Documentation, Public Hosting of your API's Docs, a Smart API Editor, and Auto-Sync.
 
