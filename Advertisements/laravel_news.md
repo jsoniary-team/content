@@ -5,7 +5,7 @@ We are two indie hackers launching our first SaaS app focused on API devs. We bo
 Jsoniary replaces Postman & Swagger from your development toolkit. We are focused on being super easy to test, document and collaborate on APIs. Here's what you get and what you can do:
 
 - Desktop Client
-- Supports REST, SOAP, GraphQL & Neo4j requests
+- Test REST, SOAP, GraphQL & Neo4j requests
 - Auto-generate your API's Documentation
 - Host your API docs directly from Jsoniary
 - Smart API Editor
@@ -20,7 +20,7 @@ Get Jsoniary Personal, our **100% Free Plan** that's made for individual API dev
 
 ## We're two indie hackers launching our first SaaS
 
-Laravel community has always played an important part in my growth as a developer. All my learnings are emotionally invested in Jsoniary. We both consider this app to be our "coolest" project. I am feeling very excited and equally nervous to put this in front of you!
+Laravel community has always played an important part in my growth as a developer who builds things. All my learnings are implemented in Jsoniary. This is literally our "coolest" project. I am feeling very excited and equally nervous to put this in front of you!
 
 Jsoniary replaces Postman & Swagger from your development toolkit. We are focused on being super easy to test, document and collaborate on APIs. Here's what you get:
 
