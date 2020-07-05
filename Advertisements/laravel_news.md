@@ -20,7 +20,7 @@ Get Jsoniary Personal, our **100% Free Plan** that's made for individual API dev
 
 ## We're two indie hackers launching our first SaaS
 
-Laravel community has always played an important part in my growth as a developer. I am feeling very excited and equally nervous to put our "coolest" project in front of you!
+Laravel community has always played an essential part in my growth as a developer. I am feeling very excited and equally nervous to put our "coolest" project in front of you!
 
 Jsoniary replaces Postman & Swagger from your development toolkit. We are focused on being super easy to test, document and collaborate on APIs. Here's what you get:
 
