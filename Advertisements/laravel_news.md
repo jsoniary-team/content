@@ -35,4 +35,4 @@ Jsoniary replaces Postman & Swagger from your development toolkit. We are focuse
 
 Get Jsoniary Personal, our **100% Free Plan** that's made for individual API developers. No Strings Attached.
 
-If you have any questions, don't hesistate to write me: [](mailto:cf@jsoniary.io)
+If you have any questions, don't hesistate to write me: [cf@jsoniary.io](mailto:cf@jsoniary.io)
