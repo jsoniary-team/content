@@ -8,6 +8,6 @@ We're two indie hackers launching our first SaaS. I am feeling very excited and 
 
 Jsoniary replaces Postman & Swagger from your development toolkit. It is focused on being super easy to test, document and collaborate on APIs. You get a Desktop Client supporting REST, SOAP & GraphQL requests, Auto-Generated API Documentation, Public Hosting of your API's Docs, a Smart API Editor, and Auto-Sync.
 
-**API Weekly: A free, once-weekly e-mail round up of API News, Tutorials, Tools & Jobs**
+**api.weekly: A free, once-weekly e-mail round up of API News, Tutorials, Tools & Jobs**
 
-We curate this free newsletter to keep developers informed about latest API news. Our focus is on developers who actively use myriad of API integrations in their daily work for their clients. We bring you a list of  APIs for fetching data, links for in-depth tutorials, tools, and jobs for API Developers.
+We are two indie developers curating this free newsletter to keep you informed about all things API. Our focus is on developers who are regularly involved in building or integrating APIs. We bring you a list of APIs for fetching data, links for in-depth tutorials, tools, and jobs for API Developers.
