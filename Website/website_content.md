@@ -26,4 +26,6 @@ Host your API docs directly on Jsoniary. You get a shareable public url for your
 
 # Mini Features
 
-###
+### Environment Variables
+
+### Linter in editor
