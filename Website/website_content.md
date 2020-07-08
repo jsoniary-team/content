@@ -6,15 +6,15 @@ HTTP client to easily test REST, SOAP, GraphQl & Neo4j requests. Available for M
 
 ### Web Application
 
-You get a web app to edit API docs, manage users, adjust team settings, update profile, & configure billing
+Edit API documentation, manage users, adjust team settings, update profile, & configure billing on our web application
 
 ### Auto-generate Documentation
 
-We automatically generate API documentation for your project by reading requests. Publish it to the web or use our editor to add more details.
+Jsoniary automatically generates your project's API documentation by reading requests. Publish it to the web or use our editor to add more details.
 
 ### Jsoniary Editor
 
-User our web-based API editor to customize the content for your docs. We support Markdown, API Blueprint & Swagger API Description languages.
+User our web-based API editor to customize your API docs. We support Markdown, API Blueprint & Swagger API Description languages.
 
 ### Fast Auto Sync 
 
