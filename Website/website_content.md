@@ -16,7 +16,7 @@ Jsoniary automatically generates your project's API documentation by reading req
 
 User our web-based API editor to customize your API docs. We support Markdown, API Blueprint & Swagger API Description languages.
 
-### Auto Sync 
+### Fast Auto-Sync 
 
 We use sockets to sync any changes between desktop client and web based API editor.
 
