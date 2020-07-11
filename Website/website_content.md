@@ -28,4 +28,8 @@ Edit API documentation, manage users, adjust team settings, update profile, & co
 
 ### Environment Variables
 
-### Linter in editor
+### Async Linter in API editor
+
+### Formatter
+
+### Contextual Auto-Complete
