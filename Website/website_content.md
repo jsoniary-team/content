@@ -21,7 +21,7 @@ Edit API documentation, manage users, adjust team settings, update profile, & co
 
 ### Auto-Documentation
 
-We constantly watch for updates to requests on desktop client to generate API docs automatically. You don't even have to click a button.
+We constantly watch for updates on desktop client to generate API docs automatically. You don't even have to click a button.
 
 ### Fast Auto-Sync 
 
